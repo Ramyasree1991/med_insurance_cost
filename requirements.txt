@@ -5,5 +5,3 @@ matplotlib
 seaborn
 xgboost
 streamlit
-pickle
-pyplot
